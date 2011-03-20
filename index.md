@@ -1,6 +1,4 @@
 ---
-title: Home
-layout: wikistyle
 ---
 
 Introduction to Pages
