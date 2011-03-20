@@ -1,0 +1,4 @@
+Ez egy próba tároló. És ez a fájl a fő fájl, ami a főoldal alján is kint van.
+
+
+
