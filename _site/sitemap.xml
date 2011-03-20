@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>http://example.com</loc>
+    <lastmod>2011-03-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>http://example.com/2010/01/10/timezone-override.html/</loc>
+    <lastmod>2010-01-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2010/01/10/time-override.html/</loc>
+    <lastmod>2010-01-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2010/01/10/override-data.html/</loc>
+    <lastmod>2010-01-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2010/01/10/date-override.html/</loc>
+    <lastmod>2010-01-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2010/01/08/triple-dash.html/</loc>
+    <lastmod>2010-01-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2009/06/22/no-yaml.html/</loc>
+    <lastmod>2009-06-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2009/06/22/empty-yaml.html/</loc>
+    <lastmod>2009-06-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/win/2009/05/24/yaml-linebreak.html/</loc>
+    <lastmod>2009-05-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2009/05/18/tags.html/</loc>
+    <lastmod>2009-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2009/05/18/tag.html/</loc>
+    <lastmod>2009-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2009/05/18/empty-tags.html/</loc>
+    <lastmod>2009-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2009/05/18/empty-tag.html/</loc>
+    <lastmod>2009-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2009/03/12/hash-%231.html/</loc>
+    <lastmod>2009-03-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2009/01/27/empty-category.html/</loc>
+    <lastmod>2009-01-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2009/01/27/empty-categories.html/</loc>
+    <lastmod>2009-01-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/foo/2009/01/27/category.html/</loc>
+    <lastmod>2009-01-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/foo/bar/baz/2009/01/27/categories.html/</loc>
+    <lastmod>2009-01-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/foo/bar/baz/2009/01/27/array-categories.html/</loc>
+    <lastmod>2009-01-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2008/12/13/include.html/</loc>
+    <lastmod>2008-12-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/foo/2008/12/12/topical-post.html/</loc>
+    <lastmod>2008-12-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.commy_category/permalinked-post/</loc>
+    <lastmod>2008-12-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2008/11/21/complex.html/</loc>
+    <lastmod>2008-11-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2008/10/18/foo-bar.html/</loc>
+    <lastmod>2008-10-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/category/2008/09/23/categories.html/</loc>
+    <lastmod>2008-09-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/z_category/2008/09/23/categories.html/</loc>
+    <lastmod>2008-09-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/publish_test/2008/02/02/published.html/</loc>
+    <lastmod>2008-02-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+
+  
+  <url>
+    <loc>http://example.com/index.html</loc>
+    <lastmod>2011-03-20</lastmod>
+    
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/contacts.html</loc>
+    <lastmod>2011-03-20</lastmod>
+    
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/deal.with.dots/</loc>
+    <lastmod>2011-03-20</lastmod>
+    
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/about/</loc>
+    <lastmod>2011-03-20</lastmod>
+    
+    
+  </url>
+  
+</urlset>
